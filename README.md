@@ -4,6 +4,21 @@
 ## Aim:
 To write a C# program to find whether the given string is a Palindrome or not.
 ## Algorithm:
+```
+Step1: Start
+ 
+Step2: Create a class and declare two variable with string datatype
+
+Step3: Loop over the entire string and reverse it
+
+Step4: Use if condition to check whether the string and the reversed string is equal or not
+
+Step5: print palindrome if it's equal else print not a palindrome.
+
+Step6: stop
+
+
+```
 
 ## Program:
 ```
@@ -38,6 +53,7 @@ namespace palindrome
 ## Output:
 
 
+![image](https://user-images.githubusercontent.com/94165326/225877988-de8dffc3-04f6-43a8-99fa-33edfd19cec0.png)
 
 
 ![image](https://user-images.githubusercontent.com/94165326/225876231-097fa192-5f0e-4f0e-be66-cfc8cacb34dd.png)
