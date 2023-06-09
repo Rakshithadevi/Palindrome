@@ -5,6 +5,7 @@
 To write a C# program to find whether the given string is a Palindrome or not.
 ## Algorithm:
 ```
+
 Step1: Start
  
 Step2: Create a class and declare two variable with string datatype
